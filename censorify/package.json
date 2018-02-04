@@ -1,0 +1,18 @@
+{
+  "author": "Harish Agrawal",
+  "name": "censorify",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harishagrawal/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "version": "0.0.1",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
